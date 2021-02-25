@@ -1,7 +1,12 @@
 {
   "expo": {
-    "name": "ScoreKeeper",
-    "slug": "ScoreKeeper",
+    "name": "final-term-project(updated)",
+    "slug": "snack-5ecebfd2-3d46-412b-8875-7577d6be619e",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,15 +23,6 @@
     ],
     "ios": {
       "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
     }
   }
 }
