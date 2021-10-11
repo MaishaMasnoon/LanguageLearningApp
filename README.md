@@ -21,7 +21,8 @@ Installation Intstrcutions:
 4. Scan Code with ios or android device
 
 </BR>Home Page Demo:
-</BR>![alt text](https://i.ibb.co/tqsVs7y/Language-Learning-App.png) ![alt text](https://i.ibb.co/jTSdmb5/App4.png)
+</BR>![alt text](https://i.ibb.co/tqsVs7y/Language-Learning-App.png) 
+</BR>![alt text](https://i.ibb.co/jTSdmb5/App4.png)
 
 </BR>Home Page Demo:
 </BR>![alt text](https://i.ibb.co/3RHfrzJ/carriage-homepage-functionality-demo.gif) ![alt text](https://i.ibb.co/kM2qNJd/carriage-all-screens-gif.gif)
