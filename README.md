@@ -20,6 +20,9 @@ Installation Intstrcutions:
 3. npm start
 4. Scan Code with ios or android device
 
+<img src="https://drive.google.com/file/d/1hUWQkrncQCJE9_4W8-CcVGLlNbIAqmbk/view?usp=sharing" width="200" height="500">
+
+
 </BR>Home Page Demo:
 </BR>![alt text](https://i.ibb.co/3RHfrzJ/carriage-homepage-functionality-demo.gif) ![alt text](https://i.ibb.co/kM2qNJd/carriage-all-screens-gif.gif)
 
